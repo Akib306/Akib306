@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a B.Sc. Computer Science student at the University of Saskatchewan, interested in full stack development, high performance web applications, and user focused interfaces.
+✨ I am a B.Sc. Computer Science student at the University of Saskatchewan, interested in full stack development, high performance web applications, and user focused interfaces.
 
 🔭 I’m currently working on SeamlessAi.chat - a modern multi-model conversational AI application supporting OpenAI, Google, Anthropic, and Meta models.
 
@@ -34,8 +34,5 @@ I am a B.Sc. Computer Science student at the University of Saskatchewan, interes
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Akib306&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
