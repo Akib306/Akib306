@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 ✨ I am a B.Sc. Computer Science student at the University of Saskatchewan, interested in full stack development, high performance web applications, and user focused interfaces.
 
-🔭 I’m currently working on SeamlessAi.chat - a modern multi-model conversational AI application supporting OpenAI, Google, Anthropic, and Meta models.
+🔭 Currently, I’m building ResumeMatch, a web app that lets users upload a resume and be matched to relevant job postings using a third-party jobs API.
 
-🌱 I’m currently learning Redis
 
 😄 Pronouns: He/him
 
