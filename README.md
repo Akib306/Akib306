@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ✨ I am a B.Sc. Computer Science student at the University of Saskatchewan, interested in full stack development, high performance web applications, and user focused interfaces.
 
-🔭 Currently, I’m building ResumeMatch, a web app that lets users upload a resume and be matched to relevant job postings using a third-party jobs API.
+🔭 Currently, I am working as ML Research Student @ Usask.
 
 
 😄 Pronouns: He/him
