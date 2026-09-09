@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ✨ I am a B.Sc. Computer Science student at the University of Saskatchewan, interested in full stack development, high performance web applications, and user focused interfaces.
 
-🔭 Currently, I am working as a Computer Vision & Robotics Developer @ Usask.
+🔭 Currently, I am working as a CO-OP student @ SSC CanAI and also as a Computer Vision & Robotics Developer @ Usask.
 
 😄 Pronouns: He/him
 
